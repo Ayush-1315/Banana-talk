@@ -71,6 +71,7 @@ background-color: transparent;
 }
 #output{
     height:45vh;
+    padding: 1rem;
     width:48vw;
     border:2px solid black;
     border-radius: 0.2rem;
